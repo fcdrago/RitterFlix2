@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6410403396",
+    "firebase_url": "https://fourth-splice-296317.firebaseio.com",
+    "project_id": "fourth-splice-296317",
+    "storage_bucket": "fourth-splice-296317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6410403396:android:14795ace52f03cc25e8611",
+        "android_client_info": {
+          "package_name": "com.dispositivosmoveis.ritterflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6410403396-kh1cplkir78aera4caknl3kj8cembnt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dispositivosmoveis.ritterflix",
+            "certificate_hash": "45a7207bf418ef42f27d73a64316aec6b8a618c9"
+          }
+        },
+        {
+          "client_id": "6410403396-j2d7gqeff1qgs1gm11752sre4etjjq70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlPTRU5yh8HAAzo_dfgiDuHjh7v9mWNww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6410403396-j2d7gqeff1qgs1gm11752sre4etjjq70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
